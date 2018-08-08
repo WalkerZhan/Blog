@@ -65,7 +65,7 @@ contract Voting{
 
 在Google浏览器里面安装`MetaMask`插件
 
-
+要以太币：<https://gitter.im/kovan-testnet/faucet> 
 
 
 
